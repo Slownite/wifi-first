@@ -1,0 +1,15 @@
+Network Diagram.xml
+.project
+Network Diagram.png
+NewScreen.screen
+WebDashboard.png
+assets/
+new
+*.*~
+src/web_interface/vendor/
+.idea/
+src/web_interface/composer.lock
+.idea/*
+tmp/
+.DS_Store
+demo_video

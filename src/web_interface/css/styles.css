@@ -1,0 +1,41 @@
+body {
+    padding: 0 0 0 0;
+    z-index: 0;
+}
+
+.jumbotron {
+    padding: 1rem 2rem !important;
+    height: 50px;
+}
+
+h1.header {
+    font-size: 16px;
+}
+
+a.navbar-brand, .navbar-light, .navbar-brand {
+    color: #ffffff!important;
+    padding: 0 0 0 5%;
+}
+
+.navbar {
+    margin-bottom: 2rem;
+}
+
+.speedtest-output {
+    padding: 10px 0 0 0;
+}
+
+.card {
+    margin-bottom: 1.2rem;
+}
+
+.footer {
+    background-color: #EEE;
+    margin: 1rem 0 0 0;
+    padding: 16px 0 5px 5%;
+}
+
+.footer p {
+    font-size: 14px;
+    color: #2a2730;
+}
